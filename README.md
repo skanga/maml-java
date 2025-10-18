@@ -20,7 +20,7 @@ A comprehensive Java 17+ library for parsing and serializing MAML (Minimal Abstr
 
 ## Installation
 
-### Maven
+### Maven (not implemented yet - contributions welcome)
 
 ```xml
 <dependency>
